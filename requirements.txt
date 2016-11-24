@@ -1,0 +1,7 @@
+Django==1.7.11
+Pillow
+psycopg2
+feedparser
+django-mptt==0.7.4
+pytz
+FeinCMS==1.13.0
